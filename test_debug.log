@@ -1,0 +1,1338 @@
+module import succeed!!
+
+SUCCESS: __init__ in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:37
+SUCCESS: load_data in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:48
+SUCCESS: merge_data in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:56
+SUCCESS: dateframe_init in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:112
+SUCCESS: __init__ in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:37
+SUCCESS: update_init_element in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:49
+데이터 개수 : 5253
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 97.44240365078271 | total_distance :97.44240365078271 | this_time :116.93088438093925 | 20 
+location : 부발-73
+DP 복귀 후 시간 : 226.13823123812153 | left time : 343.06911561906077 | DP까지-time : 116.93088438093925
+>> start : DP |  arrive : 부발-73 | left time : 343.06911561906077  | left kappa : 1390
+stopby = 0 :, 644, 부발-73
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.025209879194990868 | total_distance :97.4676135299777 | this_time :0.030251855033989042 | 20 
+location : 부발-72
+DP 복귀 후 시간 : 208.24928804625938 | left time : 323.03886376402676 | DP까지-time : 114.78957571776736
+>> start : 부발-73 |  arrive : 부발-72 | left time : 323.03886376402676  | left kappa : 1134
+Trace List : ['DP', '부발-73', '부발-72']
+stopby = 0 :, 643, 부발-72
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.025793191456341236 | total_distance :97.49340672143404 | this_time :0.03095182974760948 | 20 
+location : 부발-68
+DP 복귀 후 시간 : 186.29410010859698 | left time : 303.00791193427915 | DP까지-time : 116.71381182568217
+>> start : 부발-72 |  arrive : 부발-68 | left time : 303.00791193427915  | left kappa : 910
+Trace List : ['DP', '부발-73', '부발-72', '부발-68']
+stopby = 0 :, 642, 부발-68
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.07212509409077074 | total_distance :97.5655318155248 | this_time :0.08655011290892489 | 20 
+location : 부발-77
+DP 복귀 후 시간 : 172.31814625072064 | left time : 282.9213618213702 | DP까지-time : 110.60321557064958
+>> start : 부발-68 |  arrive : 부발-77 | left time : 282.9213618213702  | left kappa : 654
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77']
+stopby = 0 :, 641, 부발-77
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.06966506500659787 | total_distance :97.63519688053141 | this_time :0.08359807800791745 | 20 
+location : 부발-129
+DP 복귀 후 시간 : 157.55162039634337 | left time : 262.8377637433623 | DP까지-time : 105.28614334701892
+>> start : 부발-77 |  arrive : 부발-129 | left time : 262.8377637433623  | left kappa : 604
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77', '부발-129']
+stopby = 0 :, 640, 부발-129
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.005159097697404631 | total_distance :97.64035597822881 | this_time :0.006190917236885558 | 20 
+location : 부발-128
+DP 복귀 후 시간 : 137.62160592979734 | left time : 242.8315728261254 | DP까지-time : 105.20996689632807
+>> start : 부발-129 |  arrive : 부발-128 | left time : 242.8315728261254  | left kappa : 92
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77', '부발-129', '부발-128']
+stopby = 0 :, 639, 부발-128
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09025407391383374 | total_distance :97.73061005214265 | this_time :0.10830488869660047 | 20 
+location : 부발-74
+DP 복귀 후 시간 : 110.90504670066639 | left time : 222.7232679374288 | DP까지-time : 111.81822123676241
+변경 없음:,0.09025407391383374, 97.73061005214265, 0.0018050814782766746,222.7232679374288
+DP 복귀 :,93.18185103063534, 190.82220700886415, 111.81822123676241, 110.90504670066639
+situation_update1-1 >> this_distance : 0.09025407391383374 | total_distance :190.82220700886415 | left time : 110.90504670066639 | this_time :0.10830488869660047 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 93.18185103063534 | DP_time :111.81822123676241 | 
+>> start : 부발-74 |  arrive : DP | left time : 110.90504670066639  | left kappa : -356
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77', '부발-129', '부발-128', '부발-74', 'DP']
+stopby = 0 :, 638, DP
+stopby count : 638
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 95.20609652992754 | total_distance :95.20609652992754 | this_time :114.24731583591304 | 20 
+location : 부발-2
+DP 복귀 후 시간 : 231.50536832817394 | left time : 345.752684164087 | DP까지-time : 114.24731583591304
+>> start : DP |  arrive : 부발-2 | left time : 345.752684164087  | left kappa : 1320
+stopby = 0 :, 637, 부발-2
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09492318872651417 | total_distance :95.30101971865405 | this_time :0.113907826471817 | 20 
+location : 부발-33
+DP 복귀 후 시간 : 219.19943370198936 | left time : 325.6387763376152 | DP까지-time : 106.43934263562582
+>> start : 부발-2 |  arrive : 부발-33 | left time : 325.6387763376152  | left kappa : 1064
+Trace List : ['DP', '부발-2', '부발-33']
+stopby = 0 :, 636, 부발-33
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03268452730720904 | total_distance :95.33370424596126 | this_time :0.03922143276865085 | 20 
+location : 부발-42
+DP 복귀 후 시간 : 201.593500982404 | left time : 305.5995549048465 | DP까지-time : 104.00605392244252
+>> start : 부발-33 |  arrive : 부발-42 | left time : 305.5995549048465  | left kappa : 1024
+Trace List : ['DP', '부발-2', '부발-33', '부발-42']
+stopby = 0 :, 635, 부발-42
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.005779711998301822 | total_distance :95.33948395795956 | this_time :0.006935654397962186 | 20 
+location : 부발-44
+DP 복귀 후 시간 : 181.32673903242195 | left time : 285.59261925044854 | DP까지-time : 104.26588021802658
+>> start : 부발-42 |  arrive : 부발-44 | left time : 285.59261925044854  | left kappa : 768
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44']
+stopby = 0 :, 634, 부발-44
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.008023279251445671 | total_distance :95.347507237211 | this_time :0.009627935101734805 | 20 
+location : 부발-41
+DP 복귀 후 시간 : 161.63194574574862 | left time : 265.5829913153468 | DP까지-time : 103.95104556959818
+>> start : 부발-44 |  arrive : 부발-41 | left time : 265.5829913153468  | left kappa : 723
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41']
+stopby = 0 :, 633, 부발-41
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.028566305521480134 | total_distance :95.37607354273248 | this_time :0.03427956662577616 | 20 
+location : 부발-34
+DP 복귀 후 시간 : 140.43809901162126 | left time : 245.54871174872102 | DP까지-time : 105.11061273709977
+>> start : 부발-41 |  arrive : 부발-34 | left time : 245.54871174872102  | left kappa : 467
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34']
+stopby = 0 :, 632, 부발-34
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.017146479344274334 | total_distance :95.39322002207676 | this_time :0.0205757752131292 | 20 
+location : 부발-2973
+DP 복귀 후 시간 : 121.59405962673647 | left time : 225.5281359735079 | DP까지-time : 103.93407634677142
+>> start : 부발-34 |  arrive : 부발-2973 | left time : 225.5281359735079  | left kappa : 267
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34', '부발-2973']
+stopby = 0 :, 631, 부발-2973
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.07348343464880061 | total_distance :95.46670345672557 | this_time :0.08818012157856073 | 20 
+location : 부발-2968
+DP 복귀 후 시간 : 96.88451841828706 | left time : 205.4399558519293 | DP까지-time : 108.55543743364225
+>> start : 부발-2973 |  arrive : 부발-2968 | left time : 205.4399558519293  | left kappa : 11
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34', '부발-2973', '부발-2968']
+stopby = 0 :, 630, 부발-2968
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.057287550254997675 | total_distance :95.52399100698057 | this_time :0.06874506030599721 | 20 
+location : 부발-8
+DP 복귀 후 시간 : 72.50066297378503 | left time : 185.37121079162333 | DP까지-time : 112.8705478178383
+변경 없음:,0.057287550254997675, 95.52399100698057, 0.0011457510050999534,185.37121079162333
+DP 복귀 :,94.05878984819859, 189.52549330492417, 112.8705478178383, 72.50066297378503
+situation_update1-1 >> this_distance : 0.057287550254997675 | total_distance :189.52549330492417 | left time : 72.50066297378503 | this_time :0.06874506030599721 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 94.05878984819859 | DP_time :112.8705478178383 | 
+>> start : 부발-8 |  arrive : DP | left time : 72.50066297378503  | left kappa : -245
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34', '부발-2973', '부발-2968', '부발-8', 'DP']
+stopby = 0 :, 629, DP
+stopby count : 629
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 95.05612495421931 | total_distance :95.05612495421931 | this_time :114.06734994506317 | 20 
+location : 부발-3
+DP 복귀 후 시간 : 231.8653001098737 | left time : 345.93265005493686 | DP까지-time : 114.06734994506317
+>> start : DP |  arrive : 부발-3 | left time : 345.93265005493686  | left kappa : 1244
+stopby = 0 :, 628, 부발-3
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0013265503568834413 | total_distance :95.05745150457619 | this_time :0.0015918604282601297 | 20 
+location : 부발-14
+DP 복귀 후 시간 : 211.94816691268224 | left time : 325.9310581945086 | DP까지-time : 113.98289128182634
+>> start : 부발-3 |  arrive : 부발-14 | left time : 325.9310581945086  | left kappa : 1230
+Trace List : ['DP', '부발-3', '부발-14']
+stopby = 0 :, 627, 부발-14
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.11413195022050843 | total_distance :95.1715834547967 | this_time :0.1369583402646101 | 20 
+location : 부발-2972
+DP 복귀 후 시간 : 201.09269497659886 | left time : 305.794099854244 | DP까지-time : 104.70140487764515
+>> start : 부발-14 |  arrive : 부발-2972 | left time : 305.794099854244  | left kappa : 974
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972']
+stopby = 0 :, 626, 부발-2972
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09227862613166125 | total_distance :95.26386208092836 | this_time :0.1107343513579935 | 20 
+location : 부발-21
+DP 복귀 후 시간 : 177.2231003251351 | left time : 285.683365502886 | DP까지-time : 108.46026517775087
+>> start : 부발-2972 |  arrive : 부발-21 | left time : 285.683365502886  | left kappa : 734
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21']
+stopby = 0 :, 625, 부발-21
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04027781210067867 | total_distance :95.30413989302905 | this_time :0.048333374520814404 | 20 
+location : 부발-11
+DP 복귀 후 시간 : 154.46676503582677 | left time : 265.63503212836514 | DP까지-time : 111.16826709253837
+>> start : 부발-21 |  arrive : 부발-11 | left time : 265.63503212836514  | left kappa : 478
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11']
+stopby = 0 :, 624, 부발-11
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03551279091837775 | total_distance :95.33965268394742 | this_time :0.04261534910205331 | 20 
+location : 부발-19
+DP 복귀 후 시간 : 137.13565436534094 | left time : 245.5924167792631 | DP까지-time : 108.45676241392214
+>> start : 부발-11 |  arrive : 부발-19 | left time : 245.5924167792631  | left kappa : 222
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11', '부발-19']
+stopby = 0 :, 623, 부발-19
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0010067926003708046 | total_distance :95.34065947654778 | this_time :0.0012081511204449656 | 20 
+location : 부발-20
+DP 복귀 후 시간 : 117.19117071981033 | left time : 225.59120862814265 | DP까지-time : 108.40003790833232
+>> start : 부발-19 |  arrive : 부발-20 | left time : 225.59120862814265  | left kappa : 192
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11', '부발-19', '부발-20']
+stopby = 0 :, 622, 부발-20
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04736814051097656 | total_distance :95.38802761705877 | this_time :0.056841768613171875 | 20 
+location : 부발-32
+DP 복귀 후 시간 : 100.75365375695591 | left time : 205.53436685952948 | DP까지-time : 104.78071310257357
+변경 없음:,0.04736814051097656, 95.38802761705877, 0.0009473628102195312,205.53436685952948
+DP 복귀 :,87.31726091881131, 182.6579203953591, 104.78071310257357, 100.75365375695591
+situation_update1-1 >> this_distance : 0.04736814051097656 | total_distance :182.6579203953591 | left time : 100.75365375695591 | this_time :0.056841768613171875 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 87.31726091881131 | DP_time :104.78071310257357 | 
+>> start : 부발-32 |  arrive : DP | left time : 100.75365375695591  | left kappa : -64
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11', '부발-19', '부발-20', '부발-32', 'DP']
+stopby = 0 :, 621, DP
+stopby count : 621
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.89834235205996 | total_distance :94.89834235205996 | this_time :113.87801082247195 | 20 
+location : 부발-4
+DP 복귀 후 시간 : 232.24397835505613 | left time : 346.12198917752806 | DP까지-time : 113.87801082247195
+>> start : DP |  arrive : 부발-4 | left time : 346.12198917752806  | left kappa : 1244
+stopby = 0 :, 620, 부발-4
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.014769531893525367 | total_distance :94.91311188395348 | this_time :0.01772343827223044 | 20 
+location : 부발-1
+DP 복귀 후 시간 : 213.43567861823374 | left time : 326.1042657392558 | DP까지-time : 112.66858712102207
+>> start : 부발-4 |  arrive : 부발-1 | left time : 326.1042657392558  | left kappa : 1064
+Trace List : ['DP', '부발-4', '부발-1']
+stopby = 0 :, 619, 부발-1
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.01074385889785017 | total_distance :94.92385574285133 | this_time :0.012892630677420204 | 20 
+location : 부발-13
+DP 복귀 후 시간 : 192.7971952643013 | left time : 306.0913731085784 | DP까지-time : 113.29417784427712
+>> start : 부발-1 |  arrive : 부발-13 | left time : 306.0913731085784  | left kappa : 884
+Trace List : ['DP', '부발-4', '부발-1', '부발-13']
+stopby = 0 :, 618, 부발-13
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0022741750478527927 | total_distance :94.92612991789919 | this_time :0.0027290100574233513 | 20 
+location : 부발-6
+DP 복귀 후 시간 : 172.68067089449625 | left time : 286.088644098521 | DP까지-time : 113.40797320402474
+>> start : 부발-13 |  arrive : 부발-6 | left time : 286.088644098521  | left kappa : 784
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6']
+stopby = 0 :, 617, 부발-6
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.01489790607670601 | total_distance :94.9410278239759 | this_time :0.01787748729204721 | 20 
+location : 부발-12
+DP 복귀 후 시간 : 153.87572663124988 | left time : 266.070766611229 | DP까지-time : 112.1950399799791
+>> start : 부발-6 |  arrive : 부발-12 | left time : 266.070766611229  | left kappa : 604
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12']
+stopby = 0 :, 616, 부발-12
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.014263543509052762 | total_distance :94.95529136748496 | this_time :0.017116252210863315 | 20 
+location : 부발-15
+DP 복귀 후 시간 : 133.04205985080407 | left time : 246.0536503590181 | DP까지-time : 113.01159050821403
+>> start : 부발-12 |  arrive : 부발-15 | left time : 246.0536503590181  | left kappa : 380
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15']
+stopby = 0 :, 615, 부발-15
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0020802239356283794 | total_distance :94.95737159142058 | this_time :0.0024962687227540552 | 20 
+location : 부발-7
+DP 복귀 후 시간 : 112.96167476996278 | left time : 226.05115409029534 | DP까지-time : 113.08947932033256
+>> start : 부발-15 |  arrive : 부발-7 | left time : 226.05115409029534  | left kappa : 280
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15', '부발-7']
+stopby = 0 :, 614, 부발-7
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.11129932120443432 | total_distance :95.06867091262501 | this_time :0.1335591854453212 | 20 
+location : 부발-45
+DP 복귀 후 시간 : 101.85425258359011 | left time : 205.91759490485003 | DP까지-time : 104.06334232125992
+>> start : 부발-7 |  arrive : 부발-45 | left time : 205.91759490485003  | left kappa : 24
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15', '부발-7', '부발-45']
+stopby = 0 :, 613, 부발-45
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0963727904643221 | total_distance :95.16504370308932 | this_time :0.11564734855718652 | 20 
+location : 부발-2981
+DP 복귀 후 시간 : 88.68435849330666 | left time : 185.80194755629284 | DP까지-time : 97.11758906298618
+변경 없음:,0.0963727904643221, 95.16504370308932, 0.001927455809286442,185.80194755629284
+DP 복귀 :,80.93132421915516, 175.99999513178017, 97.11758906298618, 88.68435849330666
+situation_update1-1 >> this_distance : 0.0963727904643221 | total_distance :175.99999513178017 | left time : 88.68435849330666 | this_time :0.11564734855718652 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 80.93132421915516 | DP_time :97.11758906298618 | 
+>> start : 부발-2981 |  arrive : DP | left time : 88.68435849330666  | left kappa : -146
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15', '부발-7', '부발-45', '부발-2981', 'DP']
+stopby = 0 :, 612, DP
+stopby count : 612
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.76486985092323 | total_distance :94.76486985092323 | this_time :113.71784382110788 | 20 
+location : 부발-5
+DP 복귀 후 시간 : 232.56431235778427 | left time : 346.28215617889214 | DP까지-time : 113.71784382110788
+>> start : DP |  arrive : 부발-5 | left time : 346.28215617889214  | left kappa : 1244
+stopby = 0 :, 611, 부발-5
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.11889001940969296 | total_distance :94.88375987033292 | this_time :0.14266802329163156 | 20 
+location : 부발-2974
+DP 복귀 후 시간 : 222.13807699729324 | left time : 326.13948815560053 | DP까지-time : 104.0014111583073
+>> start : 부발-5 |  arrive : 부발-2974 | left time : 326.13948815560053  | left kappa : 1064
+Trace List : ['DP', '부발-5', '부발-2974']
+stopby = 0 :, 610, 부발-2974
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.08516077223304712 | total_distance :94.96892064256598 | this_time :0.10219292667965654 | 20 
+location : 부발-31
+DP 복귀 후 시간 : 199.6000224971881 | left time : 306.03729522892087 | DP까지-time : 106.43727273173279
+>> start : 부발-2974 |  arrive : 부발-31 | left time : 306.03729522892087  | left kappa : 804
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31']
+stopby = 0 :, 609, 부발-31
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.02544465456493089 | total_distance :94.99436529713091 | this_time :0.03053358547791707 | 20 
+location : 부발-16
+DP 복귀 후 시간 : 178.47567107985196 | left time : 286.0067616434429 | DP까지-time : 107.53109056359098
+>> start : 부발-31 |  arrive : 부발-16 | left time : 286.0067616434429  | left kappa : 624
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16']
+stopby = 0 :, 608, 부발-16
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0033481611098378043 | total_distance :94.99771345824075 | this_time :0.004017793331805365 | 20 
+location : 부발-17
+DP 복귀 후 시간 : 158.7245716133117 | left time : 266.00274385011113 | DP까지-time : 107.27817223679942
+>> start : 부발-16 |  arrive : 부발-17 | left time : 266.00274385011113  | left kappa : 444
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17']
+stopby = 0 :, 607, 부발-17
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.05396255517061999 | total_distance :95.05167601341137 | this_time :0.06475506620474399 | 20 
+location : 부발-35
+DP 복귀 후 시간 : 142.72247142395233 | left time : 245.9379887839064 | DP까지-time : 103.21551735995408
+>> start : 부발-17 |  arrive : 부발-35 | left time : 245.9379887839064  | left kappa : 344
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35']
+stopby = 0 :, 606, 부발-35
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.05343811244723592 | total_distance :95.1051141258586 | this_time :0.0641257349366831 | 20 
+location : 부발-18
+DP 복귀 후 시간 : 118.85227490624267 | left time : 225.87386304896972 | DP까지-time : 107.02158814272705
+>> start : 부발-35 |  arrive : 부발-18 | left time : 225.87386304896972  | left kappa : 164
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18']
+stopby = 0 :, 605, 부발-18
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03789804991362243 | total_distance :95.14301217577223 | this_time :0.04547765989634692 | 20 
+location : 부발-37
+DP 복귀 후 시간 : 101.65028682809097 | left time : 205.8283853890734 | DP까지-time : 104.17809856098242
+>> start : 부발-18 |  arrive : 부발-37 | left time : 205.8283853890734  | left kappa : 140
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18', '부발-37']
+stopby = 0 :, 604, 부발-37
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09649738168587858 | total_distance :95.2395095574581 | this_time :0.1157968580230543 | 20 
+location : 부발-49
+DP 복귀 후 시간 : 88.3217466313147 | left time : 185.71258853105033 | DP까지-time : 97.39084189973563
+>> start : 부발-37 |  arrive : 부발-49 | left time : 185.71258853105033  | left kappa : 60
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18', '부발-37', '부발-49']
+stopby = 0 :, 603, 부발-49
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03253484410358597 | total_distance :95.27204440156169 | this_time :0.03904181292430317 | 20 
+location : 부발-63
+DP 복귀 후 시간 : 70.34579022895171 | left time : 165.67354671812603 | DP까지-time : 95.32775648917432
+변경 없음:,0.03253484410358597, 95.27204440156169, 0.0006506968820717195,165.67354671812603
+DP 복귀 :,79.43979707431194, 174.67930663177003, 95.32775648917432, 70.34579022895171
+situation_update1-1 >> this_distance : 0.03253484410358597 | total_distance :174.67930663177003 | left time : 70.34579022895171 | this_time :0.03904181292430317 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 79.43979707431194 | DP_time :95.32775648917432 | 
+>> start : 부발-63 |  arrive : DP | left time : 70.34579022895171  | left kappa : -120
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18', '부발-37', '부발-49', '부발-63', 'DP']
+stopby = 0 :, 602, DP
+stopby count : 602
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.64052153416257 | total_distance :94.64052153416257 | this_time :113.56862584099508 | 20 
+location : 부발-71
+DP 복귀 후 시간 : 232.86274831800984 | left time : 346.4313741590049 | DP까지-time : 113.56862584099508
+>> start : DP |  arrive : 부발-71 | left time : 346.4313741590049  | left kappa : 1460
+stopby = 0 :, 601, 부발-71
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.047356399818142055 | total_distance :94.68787793398072 | this_time :0.05682767978177046 | 20 
+location : 부발-75
+DP 복귀 후 시간 : 216.66911407282439 | left time : 326.37454647922317 | DP까지-time : 109.70543240639878
+>> start : 부발-71 |  arrive : 부발-75 | left time : 326.37454647922317  | left kappa : 1393
+Trace List : ['DP', '부발-71', '부발-75']
+stopby = 0 :, 600, 부발-75
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04785071743484768 | total_distance :94.73572865141556 | this_time :0.05742086092181722 | 20 
+location : 부발-70
+DP 복귀 후 시간 : 192.99452120219553 | left time : 306.31712561830136 | DP까지-time : 113.32260441610582
+>> start : 부발-75 |  arrive : 부발-70 | left time : 306.31712561830136  | left kappa : 1243
+Trace List : ['DP', '부발-71', '부발-75', '부발-70']
+stopby = 0 :, 599, 부발-70
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03406162126976779 | total_distance :94.76979027268533 | this_time :0.040873945523721346 | 20 
+location : 부발-2984
+DP 복귀 후 시간 : 175.72391253887122 | left time : 286.2762516727776 | DP까지-time : 110.55233913390639
+>> start : 부발-70 |  arrive : 부발-2984 | left time : 286.2762516727776  | left kappa : 1083
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984']
+stopby = 0 :, 598, 부발-2984
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03682608326379646 | total_distance :94.80661635594912 | this_time :0.04419129991655575 | 20 
+location : 부발-69
+DP 복귀 후 시간 : 152.78663755375487 | left time : 266.23206037286104 | DP까지-time : 113.44542281910618
+>> start : 부발-2984 |  arrive : 부발-69 | left time : 266.23206037286104  | left kappa : 903
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69']
+stopby = 0 :, 597, 부발-69
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.059113140280306765 | total_distance :94.86572949622942 | this_time :0.07093576833636812 | 20 
+location : 부발-76
+DP 복귀 후 시간 : 137.53069202013165 | left time : 246.16112460452467 | DP까지-time : 108.63043258439303
+>> start : 부발-69 |  arrive : 부발-76 | left time : 246.16112460452467  | left kappa : 647
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76']
+stopby = 0 :, 596, 부발-76
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.060943426944504844 | total_distance :94.92667292317392 | this_time :0.07313211233340582 | 20 
+location : 부발-127
+DP 복귀 후 시간 : 121.56719604370528 | left time : 226.08799249219126 | DP까지-time : 104.52079644848598
+>> start : 부발-76 |  arrive : 부발-127 | left time : 226.08799249219126  | left kappa : 407
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76', '부발-127']
+stopby = 0 :, 595, 부발-127
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.030943819113564766 | total_distance :94.95761674228748 | this_time :0.03713258293627772 | 20 
+location : 부발-130
+DP 복귀 후 시간 : 103.7743932622071 | left time : 206.050859909255 | DP까지-time : 102.2764666470479
+>> start : 부발-127 |  arrive : 부발-130 | left time : 206.050859909255  | left kappa : 157
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76', '부발-127', '부발-130']
+stopby = 0 :, 594, 부발-130
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0830249797533724 | total_distance :95.04064172204086 | this_time :0.09962997570404689 | 20 
+location : 부발-125
+DP 복귀 후 시간 : 80.36336500343523 | left time : 185.95122993355096 | DP까지-time : 105.58786493011573
+변경 없음:,0.0830249797533724, 95.04064172204086, 0.0016604995950674482,185.95122993355096
+DP 복귀 :,87.9898874417631, 182.9475041840506, 105.58786493011573, 80.36336500343523
+situation_update1-1 >> this_distance : 0.0830249797533724 | total_distance :182.9475041840506 | left time : 80.36336500343523 | this_time :0.09962997570404689 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 87.9898874417631 | DP_time :105.58786493011573 | 
+>> start : 부발-125 |  arrive : DP | left time : 80.36336500343523  | left kappa : -103
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76', '부발-127', '부발-130', '부발-125', 'DP']
+stopby = 0 :, 593, DP
+stopby count : 593
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.61177801816385 | total_distance :94.61177801816385 | this_time :113.53413362179663 | 20 
+location : 부발-23
+DP 복귀 후 시간 : 232.93173275640675 | left time : 346.4658663782034 | DP까지-time : 113.53413362179663
+>> start : DP |  arrive : 부발-23 | left time : 346.4658663782034  | left kappa : 1400
+stopby = 0 :, 592, 부발-23
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0 | total_distance :94.61177801816385 | this_time :0.0 | 20 
+location : 부발-24
+DP 복귀 후 시간 : 212.93173275640675 | left time : 326.4658663782034 | DP까지-time : 113.53413362179663
+>> start : 부발-23 |  arrive : 부발-24 | left time : 326.4658663782034  | left kappa : 1280
+Trace List : ['DP', '부발-23', '부발-24']
+stopby = 0 :, 591, 부발-24
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.004763279746527129 | total_distance :94.61654129791037 | this_time :0.005715935695832555 | 20 
+location : 부발-25
+DP 복귀 후 시간 : 193.31442663740472 | left time : 306.46015044250754 | DP까지-time : 113.1457238051028
+>> start : 부발-24 |  arrive : 부발-25 | left time : 306.46015044250754  | left kappa : 1270
+Trace List : ['DP', '부발-23', '부발-24', '부발-25']
+stopby = 0 :, 590, 부발-25
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.002291375907010295 | total_distance :94.61883267381738 | this_time :0.002749651088412354 | 20 
+location : 부발-26
+DP 복귀 후 시간 : 173.18499593981363 | left time : 286.4574007914191 | DP까지-time : 113.27240485160549
+>> start : 부발-25 |  arrive : 부발-26 | left time : 286.4574007914191  | left kappa : 1236
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26']
+stopby = 0 :, 589, 부발-26
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0027532559412471883 | total_distance :94.62158592975862 | this_time :0.0033039071294966257 | 20 
+location : 부발-2969
+DP 복귀 후 시간 : 153.40547884404543 | left time : 266.4540968842896 | DP까지-time : 113.04861804024414
+>> start : 부발-26 |  arrive : 부발-2969 | left time : 266.4540968842896  | left kappa : 980
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969']
+stopby = 0 :, 588, 부발-2969
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.00036931801102550786 | total_distance :94.62195524776965 | this_time :0.0004431816132306094 | 20 
+location : 부발-27
+DP 복귀 후 시간 : 133.3750998521223 | left time : 246.45365370267638 | DP까지-time : 113.07855385055407
+>> start : 부발-2969 |  arrive : 부발-27 | left time : 246.45365370267638  | left kappa : 978
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969', '부발-27']
+stopby = 0 :, 587, 부발-27
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.12610778947516507 | total_distance :94.74806303724482 | this_time :0.1513293473701981 | 20 
+location : 부발-82
+DP 복귀 후 시간 : 123.44946483420993 | left time : 226.30232435530618 | DP까지-time : 102.85285952109625
+>> start : 부발-27 |  arrive : 부발-82 | left time : 226.30232435530618  | left kappa : 722
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969', '부발-27', '부발-82']
+stopby = 0 :, 586, 부발-82
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.051804004991838445 | total_distance :94.79986704223666 | this_time :0.06216480599020613 | 20 
+location : 부발-114
+DP 복귀 후 시간 : 107.05819617633315 | left time : 206.240159549316 | DP까지-time : 99.18196337298284
+>> start : 부발-82 |  arrive : 부발-114 | left time : 206.240159549316  | left kappa : 667
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969', '부발-27', '부발-82', '부발-114']
+stopby = 0 :, 585, 부발-114
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.011007889060646007 | total_distance :94.8108749312973 | this_time :0.013209466872775208 | 20 
+location : 부발-3011
+DP 복귀 후 시간 : 87.78461058548051 | left time : 186.2269500824432 | DP까지-time : 98.4423394969627
+>> start : 부발-114 |  arrive : 부발-3011 | left time : 186.2269500824432  | left kappa : 411
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969', '부발-27', '부발-82', '부발-114', '부발-3011']
+stopby = 0 :, 584, 부발-3011
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.023095753106610314 | total_distance :94.83397068440392 | this_time :0.02771490372793238 | 20 
+location : 부발-5167
+DP 복귀 후 시간 : 69.29162515642342 | left time : 166.19923517871527 | DP까지-time : 96.90761002229185
+>> start : 부발-3011 |  arrive : 부발-5167 | left time : 166.19923517871527  | left kappa : 155
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969', '부발-27', '부발-82', '부발-114', '부발-3011', '부발-5167']
+stopby = 0 :, 583, 부발-5167
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.05074344940420147 | total_distance :94.88471413380812 | this_time :0.06089213928504175 | 20 
+location : 부발-3028
+DP 복귀 후 시간 : 52.524794411681015 | left time : 146.13834303943023 | DP까지-time : 93.61354862774921
+>> start : 부발-5167 |  arrive : 부발-3028 | left time : 146.13834303943023  | left kappa : 105
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969', '부발-27', '부발-82', '부발-114', '부발-3011', '부발-5167', '부발-3028']
+stopby = 0 :, 582, 부발-3028
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.010594797171025232 | total_distance :94.89530893097914 | this_time :0.012713756605230279 | 20 
+location : 부발-145
+DP 복귀 후 시간 : 32.150201824322025 | left time : 126.125629282825 | DP까지-time : 93.97542745850298
+변경 없음:,0.010594797171025232, 94.89530893097914, 0.00021189594342050464,126.125629282825
+DP 복귀 :,78.31285621541915, 173.19757034922725, 93.97542745850298, 32.150201824322025
+situation_update1-1 >> this_distance : 0.010594797171025232 | total_distance :173.19757034922725 | left time : 32.150201824322025 | this_time :0.012713756605230279 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 78.31285621541915 | DP_time :93.97542745850298 | 
+>> start : 부발-145 |  arrive : DP | left time : 32.150201824322025  | left kappa : -151
+Trace List : ['DP', '부발-23', '부발-24', '부발-25', '부발-26', '부발-2969', '부발-27', '부발-82', '부발-114', '부발-3011', '부발-5167', '부발-3028', '부발-145', 'DP']
+stopby = 0 :, 581, DP
+stopby count : 581
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.41855947361483 | total_distance :94.41855947361483 | this_time :113.30227136833781 | 20 
+location : 부발-2983
+DP 복귀 후 시간 : 233.39545726332437 | left time : 346.6977286316622 | DP까지-time : 113.30227136833781
+>> start : DP |  arrive : 부발-2983 | left time : 346.6977286316622  | left kappa : 1480
+stopby = 0 :, 580, 부발-2983
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.016656241650541765 | total_distance :94.43521571526537 | this_time :0.019987489980650117 | 20 
+location : 부발-2982
+DP 복귀 후 시간 : 214.72979967702966 | left time : 326.67774114168157 | DP까지-time : 111.9479414646519
+>> start : 부발-2983 |  arrive : 부발-2982 | left time : 326.67774114168157  | left kappa : 1320
+Trace List : ['DP', '부발-2983', '부발-2982']
+stopby = 0 :, 579, 부발-2982
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.128066046780337 | total_distance :94.5632817620457 | this_time :0.15367925613640443 | 20 
+location : 부발-3023
+DP 복귀 후 시간 : 204.8158107775912 | left time : 306.52406188554517 | DP까지-time : 101.70825110795398
+>> start : 부발-2982 |  arrive : 부발-3023 | left time : 306.52406188554517  | left kappa : 1224
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023']
+stopby = 0 :, 578, 부발-3023
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.05967613684000951 | total_distance :94.62295789888572 | this_time :0.07161136420801141 | 20 
+location : 부발-118
+DP 복귀 후 시간 : 180.89191760063065 | left time : 286.45245052133714 | DP까지-time : 105.56053292070649
+>> start : 부발-3023 |  arrive : 부발-118 | left time : 286.45245052133714  | left kappa : 1024
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023', '부발-118']
+stopby = 0 :, 577, 부발-118
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03550620890302164 | total_distance :94.65846410778873 | this_time :0.04260745068362597 | 20 
+location : 부발-78
+DP 복귀 후 시간 : 158.23715686152923 | left time : 266.4098430706535 | DP까지-time : 108.17268620912425
+>> start : 부발-118 |  arrive : 부발-78 | left time : 266.4098430706535  | left kappa : 768
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023', '부발-118', '부발-78']
+stopby = 0 :, 576, 부발-78
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04341385324103187 | total_distance :94.70187796102977 | this_time :0.05209662388923825 | 20 
+location : 부발-3018
+DP 복귀 후 시간 : 141.4923739849867 | left time : 246.35774644676428 | DP까지-time : 104.86537246177758
+>> start : 부발-78 |  arrive : 부발-3018 | left time : 246.35774644676428  | left kappa : 640
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023', '부발-118', '부발-78', '부발-3018']
+stopby = 0 :, 575, 부발-3018
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.07231108245942164 | total_distance :94.77418904348919 | this_time :0.08677329895130596 | 20 
+location : 부발-3019
+DP 복귀 후 시간 : 126.67518080796609 | left time : 226.27097314781298 | DP까지-time : 99.5957923398469
+>> start : 부발-3018 |  arrive : 부발-3019 | left time : 226.27097314781298  | left kappa : 512
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023', '부발-118', '부발-78', '부발-3018', '부발-3019']
+stopby = 0 :, 574, 부발-3019
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.07111194737483013 | total_distance :94.84530099086402 | this_time :0.08533433684979616 | 20 
+location : 부발-126
+DP 복귀 후 시간 : 101.78238193011896 | left time : 206.18563881096318 | DP까지-time : 104.40325688084422
+>> start : 부발-3019 |  arrive : 부발-126 | left time : 206.18563881096318  | left kappa : 256
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023', '부발-118', '부발-78', '부발-3018', '부발-3019', '부발-126']
+stopby = 0 :, 573, 부발-126
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.06806187759262282 | total_distance :94.91336286845664 | this_time :0.08167425311114739 | 20 
+location : 부발-131
+DP 복귀 후 시간 : 86.62917982954609 | left time : 186.10396455785204 | DP까지-time : 99.47478472830595
+>> start : 부발-126 |  arrive : 부발-131 | left time : 186.10396455785204  | left kappa : 0
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023', '부발-118', '부발-78', '부발-3018', '부발-3019', '부발-126', '부발-131']
+stopby = 0 :, 572, 부발-131
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.019854534557266535 | total_distance :94.93321740301391 | this_time :0.023825441468719843 | 20 
+location : 부발-132
+DP 복귀 후 시간 : 65.90462751190591 | left time : 166.08013911638332 | DP까지-time : 100.1755116044774
+변경 없음:,0.019854534557266535, 94.93321740301391, 0.0003970906911453307,166.08013911638332
+DP 복귀 :,83.47959300373117, 178.39295587218783, 100.1755116044774, 65.90462751190591
+situation_update1-1 >> this_distance : 0.019854534557266535 | total_distance :178.39295587218783 | left time : 65.90462751190591 | this_time :0.023825441468719843 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 83.47959300373117 | DP_time :100.1755116044774 | 
+>> start : 부발-132 |  arrive : DP | left time : 65.90462751190591  | left kappa : -768
+Trace List : ['DP', '부발-2983', '부발-2982', '부발-3023', '부발-118', '부발-78', '부발-3018', '부발-3019', '부발-126', '부발-131', '부발-132', 'DP']
+stopby = 0 :, 571, DP
+stopby count : 571
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 93.6044058452737 | total_distance :93.6044058452737 | this_time :112.32528701432845 | 20 
+location : 부발-22
+DP 복귀 후 시간 : 235.34942597134307 | left time : 347.67471298567153 | DP까지-time : 112.32528701432845
+>> start : DP |  arrive : 부발-22 | left time : 347.67471298567153  | left kappa : 1244
+stopby = 0 :, 570, 부발-22
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.007008211078917462 | total_distance :93.61141405635261 | this_time :0.008409853294700955 | 20 
+location : 부발-28
+DP 복귀 후 시간 : 215.82238749918918 | left time : 327.6663031323768 | DP까지-time : 111.84391563318763
+>> start : 부발-22 |  arrive : 부발-28 | left time : 327.6663031323768  | left kappa : 988
+Trace List : ['DP', '부발-22', '부발-28']
+stopby = 0 :, 569, 부발-28
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.00874637240352948 | total_distance :93.62016042875615 | this_time :0.010495646884235377 | 20 
+location : 부발-29
+DP 복귀 후 시간 : 195.42111282786493 | left time : 307.6558074854926 | DP까지-time : 112.23469465762763
+>> start : 부발-28 |  arrive : 부발-29 | left time : 307.6558074854926  | left kappa : 764
+Trace List : ['DP', '부발-22', '부발-28', '부발-29']
+stopby = 0 :, 568, 부발-29
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.15464497034063332 | total_distance :93.77480539909678 | this_time :0.18557396440876 | 20 
+location : 부발-2985
+DP 복귀 후 시간 : 187.6447271885243 | left time : 287.4702335210838 | DP까지-time : 99.8255063325595
+>> start : 부발-29 |  arrive : 부발-2985 | left time : 287.4702335210838  | left kappa : 754
+Trace List : ['DP', '부발-22', '부발-28', '부발-29', '부발-2985']
+stopby = 0 :, 567, 부발-2985
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.002891271826019884 | total_distance :93.7776966709228 | this_time :0.0034695261912238607 | 20 
+location : 부발-87
+DP 복귀 후 시간 : 167.83738387467423 | left time : 267.4667639948926 | DP까지-time : 99.62938012021836
+>> start : 부발-2985 |  arrive : 부발-87 | left time : 267.4667639948926  | left kappa : 694
+Trace List : ['DP', '부발-22', '부발-28', '부발-29', '부발-2985', '부발-87']
+stopby = 0 :, 566, 부발-87
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.061676086942802966 | total_distance :93.83937275786559 | this_time :0.07401130433136355 | 20 
+location : 부발-141
+DP 복귀 후 시간 : 151.88273975435055 | left time : 247.39275269056122 | DP까지-time : 95.51001293621066
+>> start : 부발-87 |  arrive : 부발-141 | left time : 247.39275269056122  | left kappa : 438
+Trace List : ['DP', '부발-22', '부발-28', '부발-29', '부발-2985', '부발-87', '부발-141']
+stopby = 0 :, 565, 부발-141
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.024861494127463628 | total_distance :93.86423425199305 | this_time :0.029833792952956354 | 20 
+location : 부발-3029
+DP 복귀 후 시간 : 133.43206818262763 | left time : 227.36291889760827 | DP까지-time : 93.93085071498062
+>> start : 부발-141 |  arrive : 부발-3029 | left time : 227.36291889760827  | left kappa : 313
+Trace List : ['DP', '부발-22', '부발-28', '부발-29', '부발-2985', '부발-87', '부발-141', '부발-3029']
+stopby = 0 :, 564, 부발-3029
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.02085159313297662 | total_distance :93.88508584512603 | this_time :0.025021911759571944 | 20 
+location : 부발-147
+DP 복귀 후 시간 : 114.69857796595718 | left time : 207.3378969858487 | DP까지-time : 92.6393190198915
+>> start : 부발-3029 |  arrive : 부발-147 | left time : 207.3378969858487  | left kappa : 57
+Trace List : ['DP', '부발-22', '부발-28', '부발-29', '부발-2985', '부발-87', '부발-141', '부발-3029', '부발-147']
+stopby = 0 :, 563, 부발-147
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.020763933091202575 | total_distance :93.90584977821723 | this_time :0.02491671970944309 | 20 
+location : 부발-143
+DP 복귀 후 시간 : 93.41437642465324 | left time : 187.31298026613925 | DP까지-time : 93.89860384148601
+>> start : 부발-147 |  arrive : 부발-143 | left time : 187.31298026613925  | left kappa : 17
+Trace List : ['DP', '부발-22', '부발-28', '부발-29', '부발-2985', '부발-87', '부발-141', '부발-3029', '부발-147', '부발-143']
+stopby = 0 :, 562, 부발-143
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.06639334947851357 | total_distance :93.97224312769575 | this_time :0.07967201937421628 | 20 
+location : 부발-3051
+DP 복귀 후 시간 : 77.44491660091916 | left time : 167.23330824676503 | DP까지-time : 89.78839164584588
+변경 없음:,0.06639334947851357, 93.97224312769575, 0.0013278669895702712,167.23330824676503
+DP 복귀 :,74.82365970487157, 168.7295094830888, 89.78839164584588, 77.44491660091916
+situation_update1-1 >> this_distance : 0.06639334947851357 | total_distance :168.7295094830888 | left time : 77.44491660091916 | this_time :0.07967201937421628 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 74.82365970487157 | DP_time :89.78839164584588 | 
+>> start : 부발-3051 |  arrive : DP | left time : 77.44491660091916  | left kappa : -8
+Trace List : ['DP', '부발-22', '부발-28', '부발-29', '부발-2985', '부발-87', '부발-141', '부발-3029', '부발-147', '부발-143', '부발-3051', 'DP']
+stopby = 0 :, 561, DP
+stopby count : 561
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 93.20253782410693 | total_distance :93.20253782410693 | this_time :111.8430453889283 | 20 
+location : 부발-9
+DP 복귀 후 시간 : 236.31390922214337 | left time : 348.1569546110717 | DP까지-time : 111.8430453889283
+>> start : DP |  arrive : 부발-9 | left time : 348.1569546110717  | left kappa : 988
+stopby = 0 :, 560, 부발-9
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.12337545524356054 | total_distance :93.32591327935049 | this_time :0.14805054629227266 | 20 
+location : 부발-43
+DP 복귀 후 시간 : 226.01756497380086 | left time : 328.0089040647794 | DP까지-time : 101.99133909097854
+>> start : 부발-9 |  arrive : 부발-43 | left time : 328.0089040647794  | left kappa : 958
+Trace List : ['DP', '부발-9', '부발-43']
+stopby = 0 :, 559, 부발-43
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.011095778483220197 | total_distance :93.33700905783371 | this_time :0.013314934179864237 | 20 
+location : 부발-47
+DP 복귀 후 시간 : 206.50798607113381 | left time : 307.99558913059957 | DP까지-time : 101.48760305946574
+>> start : 부발-43 |  arrive : 부발-47 | left time : 307.99558913059957  | left kappa : 758
+Trace List : ['DP', '부발-9', '부발-43', '부발-47']
+stopby = 0 :, 558, 부발-47
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09414622650484138 | total_distance :93.43115528433856 | this_time :0.11297547180580965 | 20 
+location : 부발-64
+DP 복귀 후 시간 : 192.93779542011197 | left time : 287.8826136587938 | DP까지-time : 94.94481823868182
+>> start : 부발-47 |  arrive : 부발-64 | left time : 287.8826136587938  | left kappa : 748
+Trace List : ['DP', '부발-9', '부발-43', '부발-47', '부발-64']
+stopby = 0 :, 557, 부발-64
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04934750451717173 | total_distance :93.48050278885573 | this_time :0.05921700542060608 | 20 
+location : 부발-2990
+DP 복귀 후 시간 : 175.98516178463518 | left time : 267.8233966533732 | DP까지-time : 91.83823486873801
+>> start : 부발-64 |  arrive : 부발-2990 | left time : 267.8233966533732  | left kappa : 668
+Trace List : ['DP', '부발-9', '부발-43', '부발-47', '부발-64', '부발-2990']
+stopby = 0 :, 556, 부발-2990
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.059202563832380595 | total_distance :93.53970535268812 | this_time :0.07104307659885671 | 20 
+location : 부발-99
+DP 복귀 후 시간 : 159.1420580503461 | left time : 247.75235357677434 | DP까지-time : 88.61029552642825
+>> start : 부발-2990 |  arrive : 부발-99 | left time : 247.75235357677434  | left kappa : 380
+Trace List : ['DP', '부발-9', '부발-43', '부발-47', '부발-64', '부발-2990', '부발-99']
+stopby = 0 :, 555, 부발-99
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.06448629881751032 | total_distance :93.60419165150563 | this_time :0.07738355858101238 | 20 
+location : 부발-91
+DP 복귀 후 시간 : 137.13165791775364 | left time : 227.67497001819333 | DP까지-time : 90.54331210043969
+>> start : 부발-99 |  arrive : 부발-91 | left time : 227.67497001819333  | left kappa : 330
+Trace List : ['DP', '부발-9', '부발-43', '부발-47', '부발-64', '부발-2990', '부발-99', '부발-91']
+stopby = 0 :, 554, 부발-91
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04018439832400424 | total_distance :93.64437604982963 | this_time :0.04822127798880509 | 20 
+location : 부발-3004
+DP 복귀 후 시간 : 119.38449450936642 | left time : 207.62674874020453 | DP까지-time : 88.24225423083811
+>> start : 부발-91 |  arrive : 부발-3004 | left time : 207.62674874020453  | left kappa : 200
+Trace List : ['DP', '부발-9', '부발-43', '부발-47', '부발-64', '부발-2990', '부발-99', '부발-91', '부발-3004']
+stopby = 0 :, 553, 부발-3004
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.022739409158689935 | total_distance :93.66711545898832 | this_time :0.027287290990427922 | 20 
+location : 부발-106
+DP 복귀 후 시간 : 100.60426354406073 | left time : 187.59946144921412 | DP까지-time : 86.99519790515339
+변경 없음:,0.022739409158689935, 93.66711545898832, 0.0004547881831737987,187.59946144921412
+DP 복귀 :,72.49599825429449, 166.14037430412412, 86.99519790515339, 100.60426354406073
+situation_update1-1 >> this_distance : 0.022739409158689935 | total_distance :166.14037430412412 | left time : 100.60426354406073 | this_time :0.027287290990427922 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 72.49599825429449 | DP_time :86.99519790515339 | 
+>> start : 부발-106 |  arrive : DP | left time : 100.60426354406073  | left kappa : -56
+Trace List : ['DP', '부발-9', '부발-43', '부발-47', '부발-64', '부발-2990', '부발-99', '부발-91', '부발-3004', '부발-106', 'DP']
+stopby = 0 :, 552, DP
+stopby count : 552
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 93.03132009221855 | total_distance :93.03132009221855 | this_time :111.63758411066226 | 20 
+location : 부발-10
+DP 복귀 후 시간 : 236.72483177867548 | left time : 348.36241588933774 | DP까지-time : 111.63758411066226
+>> start : DP |  arrive : 부발-10 | left time : 348.36241588933774  | left kappa : 1400
+stopby = 0 :, 551, 부발-10
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.08888897492860144 | total_distance :93.12020906714716 | this_time :0.10666676991432174 | 20 
+location : 부발-36
+DP 복귀 후 시간 : 223.6978133598144 | left time : 328.2557491194234 | DP까지-time : 104.55793575960898
+>> start : 부발-10 |  arrive : 부발-36 | left time : 328.2557491194234  | left kappa : 1150
+Trace List : ['DP', '부발-10', '부발-36']
+stopby = 0 :, 550, 부발-36
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.08757112516538783 | total_distance :93.20778019231254 | this_time :0.10508535019846539 | 20 
+location : 부발-2975
+DP 복귀 후 시간 : 209.94744217022978 | left time : 308.15066376922493 | DP까지-time : 98.20322159899516
+>> start : 부발-36 |  arrive : 부발-2975 | left time : 308.15066376922493  | left kappa : 970
+Trace List : ['DP', '부발-10', '부발-36', '부발-2975']
+stopby = 0 :, 549, 부발-2975
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+module import succeed!!
+
+SUCCESS: __init__ in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:37
+SUCCESS: load_data in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:48
+SUCCESS: merge_data in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:56
+SUCCESS: dateframe_init in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:112
+SUCCESS: __init__ in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:37
+SUCCESS: update_init_element in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:49
+데이터 개수 : 5253
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 97.44240365078271 | total_distance :97.44240365078271 | this_time :116.93088438093925 | 20 
+location : 부발-73
+DP 복귀 후 시간 : 226.13823123812153 | left time : 343.06911561906077 | DP까지-time : 116.93088438093925
+>> start : DP |  arrive : 부발-73 | left time : 343.06911561906077  | left kappa : 1390
+stopby = 0 :, 644, 부발-73
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.025209879194990868 | total_distance :97.4676135299777 | this_time :0.030251855033989042 | 20 
+location : 부발-72
+DP 복귀 후 시간 : 208.24928804625938 | left time : 323.03886376402676 | DP까지-time : 114.78957571776736
+>> start : 부발-73 |  arrive : 부발-72 | left time : 323.03886376402676  | left kappa : 1134
+Trace List : ['DP', '부발-73', '부발-72']
+stopby = 0 :, 643, 부발-72
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.025793191456341236 | total_distance :97.49340672143404 | this_time :0.03095182974760948 | 20 
+location : 부발-68
+DP 복귀 후 시간 : 186.29410010859698 | left time : 303.00791193427915 | DP까지-time : 116.71381182568217
+>> start : 부발-72 |  arrive : 부발-68 | left time : 303.00791193427915  | left kappa : 910
+Trace List : ['DP', '부발-73', '부발-72', '부발-68']
+stopby = 0 :, 642, 부발-68
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.07212509409077074 | total_distance :97.5655318155248 | this_time :0.08655011290892489 | 20 
+location : 부발-77
+DP 복귀 후 시간 : 172.31814625072064 | left time : 282.9213618213702 | DP까지-time : 110.60321557064958
+>> start : 부발-68 |  arrive : 부발-77 | left time : 282.9213618213702  | left kappa : 654
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77']
+stopby = 0 :, 641, 부발-77
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.06966506500659787 | total_distance :97.63519688053141 | this_time :0.08359807800791745 | 20 
+location : 부발-129
+DP 복귀 후 시간 : 157.55162039634337 | left time : 262.8377637433623 | DP까지-time : 105.28614334701892
+>> start : 부발-77 |  arrive : 부발-129 | left time : 262.8377637433623  | left kappa : 604
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77', '부발-129']
+stopby = 0 :, 640, 부발-129
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.005159097697404631 | total_distance :97.64035597822881 | this_time :0.006190917236885558 | 20 
+location : 부발-128
+DP 복귀 후 시간 : 137.62160592979734 | left time : 242.8315728261254 | DP까지-time : 105.20996689632807
+>> start : 부발-129 |  arrive : 부발-128 | left time : 242.8315728261254  | left kappa : 92
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77', '부발-129', '부발-128']
+stopby = 0 :, 639, 부발-128
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09025407391383374 | total_distance :97.73061005214265 | this_time :0.10830488869660047 | 20 
+location : 부발-74
+DP 복귀 후 시간 : 110.90504670066639 | left time : 222.7232679374288 | DP까지-time : 111.81822123676241
+변경 없음:,0.09025407391383374, 97.73061005214265, 0.0018050814782766746,222.7232679374288
+DP 복귀 :,93.18185103063534, 190.82220700886415, 111.81822123676241, 110.90504670066639
+situation_update1-1 >> this_distance : 0.09025407391383374 | total_distance :190.82220700886415 | left time : 110.90504670066639 | this_time :0.10830488869660047 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 93.18185103063534 | DP_time :111.81822123676241 | 
+>> start : 부발-74 |  arrive : DP | left time : 110.90504670066639  | left kappa : -356
+Trace List : ['DP', '부발-73', '부발-72', '부발-68', '부발-77', '부발-129', '부발-128', '부발-74', 'DP']
+stopby = 0 :, 638, DP
+stopby count : 638
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 95.20609652992754 | total_distance :95.20609652992754 | this_time :114.24731583591304 | 20 
+location : 부발-2
+DP 복귀 후 시간 : 231.50536832817394 | left time : 345.752684164087 | DP까지-time : 114.24731583591304
+>> start : DP |  arrive : 부발-2 | left time : 345.752684164087  | left kappa : 1320
+stopby = 0 :, 637, 부발-2
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09492318872651417 | total_distance :95.30101971865405 | this_time :0.113907826471817 | 20 
+location : 부발-33
+DP 복귀 후 시간 : 219.19943370198936 | left time : 325.6387763376152 | DP까지-time : 106.43934263562582
+>> start : 부발-2 |  arrive : 부발-33 | left time : 325.6387763376152  | left kappa : 1064
+Trace List : ['DP', '부발-2', '부발-33']
+stopby = 0 :, 636, 부발-33
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03268452730720904 | total_distance :95.33370424596126 | this_time :0.03922143276865085 | 20 
+location : 부발-42
+DP 복귀 후 시간 : 201.593500982404 | left time : 305.5995549048465 | DP까지-time : 104.00605392244252
+>> start : 부발-33 |  arrive : 부발-42 | left time : 305.5995549048465  | left kappa : 1024
+Trace List : ['DP', '부발-2', '부발-33', '부발-42']
+stopby = 0 :, 635, 부발-42
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.005779711998301822 | total_distance :95.33948395795956 | this_time :0.006935654397962186 | 20 
+location : 부발-44
+DP 복귀 후 시간 : 181.32673903242195 | left time : 285.59261925044854 | DP까지-time : 104.26588021802658
+>> start : 부발-42 |  arrive : 부발-44 | left time : 285.59261925044854  | left kappa : 768
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44']
+stopby = 0 :, 634, 부발-44
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.008023279251445671 | total_distance :95.347507237211 | this_time :0.009627935101734805 | 20 
+location : 부발-41
+DP 복귀 후 시간 : 161.63194574574862 | left time : 265.5829913153468 | DP까지-time : 103.95104556959818
+>> start : 부발-44 |  arrive : 부발-41 | left time : 265.5829913153468  | left kappa : 723
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41']
+stopby = 0 :, 633, 부발-41
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.028566305521480134 | total_distance :95.37607354273248 | this_time :0.03427956662577616 | 20 
+location : 부발-34
+DP 복귀 후 시간 : 140.43809901162126 | left time : 245.54871174872102 | DP까지-time : 105.11061273709977
+>> start : 부발-41 |  arrive : 부발-34 | left time : 245.54871174872102  | left kappa : 467
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34']
+stopby = 0 :, 632, 부발-34
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.017146479344274334 | total_distance :95.39322002207676 | this_time :0.0205757752131292 | 20 
+location : 부발-2973
+DP 복귀 후 시간 : 121.59405962673647 | left time : 225.5281359735079 | DP까지-time : 103.93407634677142
+>> start : 부발-34 |  arrive : 부발-2973 | left time : 225.5281359735079  | left kappa : 267
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34', '부발-2973']
+stopby = 0 :, 631, 부발-2973
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.07348343464880061 | total_distance :95.46670345672557 | this_time :0.08818012157856073 | 20 
+location : 부발-2968
+DP 복귀 후 시간 : 96.88451841828706 | left time : 205.4399558519293 | DP까지-time : 108.55543743364225
+>> start : 부발-2973 |  arrive : 부발-2968 | left time : 205.4399558519293  | left kappa : 11
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34', '부발-2973', '부발-2968']
+stopby = 0 :, 630, 부발-2968
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.057287550254997675 | total_distance :95.52399100698057 | this_time :0.06874506030599721 | 20 
+location : 부발-8
+DP 복귀 후 시간 : 72.50066297378503 | left time : 185.37121079162333 | DP까지-time : 112.8705478178383
+변경 없음:,0.057287550254997675, 95.52399100698057, 0.0011457510050999534,185.37121079162333
+DP 복귀 :,94.05878984819859, 189.52549330492417, 112.8705478178383, 72.50066297378503
+situation_update1-1 >> this_distance : 0.057287550254997675 | total_distance :189.52549330492417 | left time : 72.50066297378503 | this_time :0.06874506030599721 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 94.05878984819859 | DP_time :112.8705478178383 | 
+>> start : 부발-8 |  arrive : DP | left time : 72.50066297378503  | left kappa : -245
+Trace List : ['DP', '부발-2', '부발-33', '부발-42', '부발-44', '부발-41', '부발-34', '부발-2973', '부발-2968', '부발-8', 'DP']
+stopby = 0 :, 629, DP
+stopby count : 629
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 95.05612495421931 | total_distance :95.05612495421931 | this_time :114.06734994506317 | 20 
+location : 부발-3
+DP 복귀 후 시간 : 231.8653001098737 | left time : 345.93265005493686 | DP까지-time : 114.06734994506317
+>> start : DP |  arrive : 부발-3 | left time : 345.93265005493686  | left kappa : 1244
+stopby = 0 :, 628, 부발-3
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0013265503568834413 | total_distance :95.05745150457619 | this_time :0.0015918604282601297 | 20 
+location : 부발-14
+DP 복귀 후 시간 : 211.94816691268224 | left time : 325.9310581945086 | DP까지-time : 113.98289128182634
+>> start : 부발-3 |  arrive : 부발-14 | left time : 325.9310581945086  | left kappa : 1230
+Trace List : ['DP', '부발-3', '부발-14']
+stopby = 0 :, 627, 부발-14
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.11413195022050843 | total_distance :95.1715834547967 | this_time :0.1369583402646101 | 20 
+location : 부발-2972
+DP 복귀 후 시간 : 201.09269497659886 | left time : 305.794099854244 | DP까지-time : 104.70140487764515
+>> start : 부발-14 |  arrive : 부발-2972 | left time : 305.794099854244  | left kappa : 974
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972']
+stopby = 0 :, 626, 부발-2972
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09227862613166125 | total_distance :95.26386208092836 | this_time :0.1107343513579935 | 20 
+location : 부발-21
+DP 복귀 후 시간 : 177.2231003251351 | left time : 285.683365502886 | DP까지-time : 108.46026517775087
+>> start : 부발-2972 |  arrive : 부발-21 | left time : 285.683365502886  | left kappa : 734
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21']
+stopby = 0 :, 625, 부발-21
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04027781210067867 | total_distance :95.30413989302905 | this_time :0.048333374520814404 | 20 
+location : 부발-11
+DP 복귀 후 시간 : 154.46676503582677 | left time : 265.63503212836514 | DP까지-time : 111.16826709253837
+>> start : 부발-21 |  arrive : 부발-11 | left time : 265.63503212836514  | left kappa : 478
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11']
+stopby = 0 :, 624, 부발-11
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03551279091837775 | total_distance :95.33965268394742 | this_time :0.04261534910205331 | 20 
+location : 부발-19
+DP 복귀 후 시간 : 137.13565436534094 | left time : 245.5924167792631 | DP까지-time : 108.45676241392214
+>> start : 부발-11 |  arrive : 부발-19 | left time : 245.5924167792631  | left kappa : 222
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11', '부발-19']
+stopby = 0 :, 623, 부발-19
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0010067926003708046 | total_distance :95.34065947654778 | this_time :0.0012081511204449656 | 20 
+location : 부발-20
+DP 복귀 후 시간 : 117.19117071981033 | left time : 225.59120862814265 | DP까지-time : 108.40003790833232
+>> start : 부발-19 |  arrive : 부발-20 | left time : 225.59120862814265  | left kappa : 192
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11', '부발-19', '부발-20']
+stopby = 0 :, 622, 부발-20
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04736814051097656 | total_distance :95.38802761705877 | this_time :0.056841768613171875 | 20 
+location : 부발-32
+DP 복귀 후 시간 : 100.75365375695591 | left time : 205.53436685952948 | DP까지-time : 104.78071310257357
+변경 없음:,0.04736814051097656, 95.38802761705877, 0.0009473628102195312,205.53436685952948
+DP 복귀 :,87.31726091881131, 182.6579203953591, 104.78071310257357, 100.75365375695591
+situation_update1-1 >> this_distance : 0.04736814051097656 | total_distance :182.6579203953591 | left time : 100.75365375695591 | this_time :0.056841768613171875 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 87.31726091881131 | DP_time :104.78071310257357 | 
+>> start : 부발-32 |  arrive : DP | left time : 100.75365375695591  | left kappa : -64
+Trace List : ['DP', '부발-3', '부발-14', '부발-2972', '부발-21', '부발-11', '부발-19', '부발-20', '부발-32', 'DP']
+stopby = 0 :, 621, DP
+stopby count : 621
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.89834235205996 | total_distance :94.89834235205996 | this_time :113.87801082247195 | 20 
+location : 부발-4
+DP 복귀 후 시간 : 232.24397835505613 | left time : 346.12198917752806 | DP까지-time : 113.87801082247195
+>> start : DP |  arrive : 부발-4 | left time : 346.12198917752806  | left kappa : 1244
+stopby = 0 :, 620, 부발-4
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.014769531893525367 | total_distance :94.91311188395348 | this_time :0.01772343827223044 | 20 
+location : 부발-1
+DP 복귀 후 시간 : 213.43567861823374 | left time : 326.1042657392558 | DP까지-time : 112.66858712102207
+>> start : 부발-4 |  arrive : 부발-1 | left time : 326.1042657392558  | left kappa : 1064
+Trace List : ['DP', '부발-4', '부발-1']
+stopby = 0 :, 619, 부발-1
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.01074385889785017 | total_distance :94.92385574285133 | this_time :0.012892630677420204 | 20 
+location : 부발-13
+DP 복귀 후 시간 : 192.7971952643013 | left time : 306.0913731085784 | DP까지-time : 113.29417784427712
+>> start : 부발-1 |  arrive : 부발-13 | left time : 306.0913731085784  | left kappa : 884
+Trace List : ['DP', '부발-4', '부발-1', '부발-13']
+stopby = 0 :, 618, 부발-13
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0022741750478527927 | total_distance :94.92612991789919 | this_time :0.0027290100574233513 | 20 
+location : 부발-6
+DP 복귀 후 시간 : 172.68067089449625 | left time : 286.088644098521 | DP까지-time : 113.40797320402474
+>> start : 부발-13 |  arrive : 부발-6 | left time : 286.088644098521  | left kappa : 784
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6']
+stopby = 0 :, 617, 부발-6
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.01489790607670601 | total_distance :94.9410278239759 | this_time :0.01787748729204721 | 20 
+location : 부발-12
+DP 복귀 후 시간 : 153.87572663124988 | left time : 266.070766611229 | DP까지-time : 112.1950399799791
+>> start : 부발-6 |  arrive : 부발-12 | left time : 266.070766611229  | left kappa : 604
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12']
+stopby = 0 :, 616, 부발-12
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.014263543509052762 | total_distance :94.95529136748496 | this_time :0.017116252210863315 | 20 
+location : 부발-15
+DP 복귀 후 시간 : 133.04205985080407 | left time : 246.0536503590181 | DP까지-time : 113.01159050821403
+>> start : 부발-12 |  arrive : 부발-15 | left time : 246.0536503590181  | left kappa : 380
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15']
+stopby = 0 :, 615, 부발-15
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0020802239356283794 | total_distance :94.95737159142058 | this_time :0.0024962687227540552 | 20 
+location : 부발-7
+DP 복귀 후 시간 : 112.96167476996278 | left time : 226.05115409029534 | DP까지-time : 113.08947932033256
+>> start : 부발-15 |  arrive : 부발-7 | left time : 226.05115409029534  | left kappa : 280
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15', '부발-7']
+stopby = 0 :, 614, 부발-7
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.11129932120443432 | total_distance :95.06867091262501 | this_time :0.1335591854453212 | 20 
+location : 부발-45
+DP 복귀 후 시간 : 101.85425258359011 | left time : 205.91759490485003 | DP까지-time : 104.06334232125992
+>> start : 부발-7 |  arrive : 부발-45 | left time : 205.91759490485003  | left kappa : 24
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15', '부발-7', '부발-45']
+stopby = 0 :, 613, 부발-45
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0963727904643221 | total_distance :95.16504370308932 | this_time :0.11564734855718652 | 20 
+location : 부발-2981
+DP 복귀 후 시간 : 88.68435849330666 | left time : 185.80194755629284 | DP까지-time : 97.11758906298618
+변경 없음:,0.0963727904643221, 95.16504370308932, 0.001927455809286442,185.80194755629284
+DP 복귀 :,80.93132421915516, 175.99999513178017, 97.11758906298618, 88.68435849330666
+situation_update1-1 >> this_distance : 0.0963727904643221 | total_distance :175.99999513178017 | left time : 88.68435849330666 | this_time :0.11564734855718652 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 80.93132421915516 | DP_time :97.11758906298618 | 
+>> start : 부발-2981 |  arrive : DP | left time : 88.68435849330666  | left kappa : -146
+Trace List : ['DP', '부발-4', '부발-1', '부발-13', '부발-6', '부발-12', '부발-15', '부발-7', '부발-45', '부발-2981', 'DP']
+stopby = 0 :, 612, DP
+stopby count : 612
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.76486985092323 | total_distance :94.76486985092323 | this_time :113.71784382110788 | 20 
+location : 부발-5
+DP 복귀 후 시간 : 232.56431235778427 | left time : 346.28215617889214 | DP까지-time : 113.71784382110788
+>> start : DP |  arrive : 부발-5 | left time : 346.28215617889214  | left kappa : 1244
+stopby = 0 :, 611, 부발-5
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.11889001940969296 | total_distance :94.88375987033292 | this_time :0.14266802329163156 | 20 
+location : 부발-2974
+DP 복귀 후 시간 : 222.13807699729324 | left time : 326.13948815560053 | DP까지-time : 104.0014111583073
+>> start : 부발-5 |  arrive : 부발-2974 | left time : 326.13948815560053  | left kappa : 1064
+Trace List : ['DP', '부발-5', '부발-2974']
+stopby = 0 :, 610, 부발-2974
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.08516077223304712 | total_distance :94.96892064256598 | this_time :0.10219292667965654 | 20 
+location : 부발-31
+DP 복귀 후 시간 : 199.6000224971881 | left time : 306.03729522892087 | DP까지-time : 106.43727273173279
+>> start : 부발-2974 |  arrive : 부발-31 | left time : 306.03729522892087  | left kappa : 804
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31']
+stopby = 0 :, 609, 부발-31
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.02544465456493089 | total_distance :94.99436529713091 | this_time :0.03053358547791707 | 20 
+location : 부발-16
+DP 복귀 후 시간 : 178.47567107985196 | left time : 286.0067616434429 | DP까지-time : 107.53109056359098
+>> start : 부발-31 |  arrive : 부발-16 | left time : 286.0067616434429  | left kappa : 624
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16']
+stopby = 0 :, 608, 부발-16
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0033481611098378043 | total_distance :94.99771345824075 | this_time :0.004017793331805365 | 20 
+location : 부발-17
+DP 복귀 후 시간 : 158.7245716133117 | left time : 266.00274385011113 | DP까지-time : 107.27817223679942
+>> start : 부발-16 |  arrive : 부발-17 | left time : 266.00274385011113  | left kappa : 444
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17']
+stopby = 0 :, 607, 부발-17
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.05396255517061999 | total_distance :95.05167601341137 | this_time :0.06475506620474399 | 20 
+location : 부발-35
+DP 복귀 후 시간 : 142.72247142395233 | left time : 245.9379887839064 | DP까지-time : 103.21551735995408
+>> start : 부발-17 |  arrive : 부발-35 | left time : 245.9379887839064  | left kappa : 344
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35']
+stopby = 0 :, 606, 부발-35
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.05343811244723592 | total_distance :95.1051141258586 | this_time :0.0641257349366831 | 20 
+location : 부발-18
+DP 복귀 후 시간 : 118.85227490624267 | left time : 225.87386304896972 | DP까지-time : 107.02158814272705
+>> start : 부발-35 |  arrive : 부발-18 | left time : 225.87386304896972  | left kappa : 164
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18']
+stopby = 0 :, 605, 부발-18
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03789804991362243 | total_distance :95.14301217577223 | this_time :0.04547765989634692 | 20 
+location : 부발-37
+DP 복귀 후 시간 : 101.65028682809097 | left time : 205.8283853890734 | DP까지-time : 104.17809856098242
+>> start : 부발-18 |  arrive : 부발-37 | left time : 205.8283853890734  | left kappa : 140
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18', '부발-37']
+stopby = 0 :, 604, 부발-37
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.09649738168587858 | total_distance :95.2395095574581 | this_time :0.1157968580230543 | 20 
+location : 부발-49
+DP 복귀 후 시간 : 88.3217466313147 | left time : 185.71258853105033 | DP까지-time : 97.39084189973563
+>> start : 부발-37 |  arrive : 부발-49 | left time : 185.71258853105033  | left kappa : 60
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18', '부발-37', '부발-49']
+stopby = 0 :, 603, 부발-49
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03253484410358597 | total_distance :95.27204440156169 | this_time :0.03904181292430317 | 20 
+location : 부발-63
+DP 복귀 후 시간 : 70.34579022895171 | left time : 165.67354671812603 | DP까지-time : 95.32775648917432
+변경 없음:,0.03253484410358597, 95.27204440156169, 0.0006506968820717195,165.67354671812603
+DP 복귀 :,79.43979707431194, 174.67930663177003, 95.32775648917432, 70.34579022895171
+situation_update1-1 >> this_distance : 0.03253484410358597 | total_distance :174.67930663177003 | left time : 70.34579022895171 | this_time :0.03904181292430317 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 79.43979707431194 | DP_time :95.32775648917432 | 
+>> start : 부발-63 |  arrive : DP | left time : 70.34579022895171  | left kappa : -120
+Trace List : ['DP', '부발-5', '부발-2974', '부발-31', '부발-16', '부발-17', '부발-35', '부발-18', '부발-37', '부발-49', '부발-63', 'DP']
+stopby = 0 :, 602, DP
+stopby count : 602
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.64052153416257 | total_distance :94.64052153416257 | this_time :113.56862584099508 | 20 
+location : 부발-71
+DP 복귀 후 시간 : 232.86274831800984 | left time : 346.4313741590049 | DP까지-time : 113.56862584099508
+>> start : DP |  arrive : 부발-71 | left time : 346.4313741590049  | left kappa : 1460
+stopby = 0 :, 601, 부발-71
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.047356399818142055 | total_distance :94.68787793398072 | this_time :0.05682767978177046 | 20 
+location : 부발-75
+DP 복귀 후 시간 : 216.66911407282439 | left time : 326.37454647922317 | DP까지-time : 109.70543240639878
+>> start : 부발-71 |  arrive : 부발-75 | left time : 326.37454647922317  | left kappa : 1393
+Trace List : ['DP', '부발-71', '부발-75']
+stopby = 0 :, 600, 부발-75
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.04785071743484768 | total_distance :94.73572865141556 | this_time :0.05742086092181722 | 20 
+location : 부발-70
+DP 복귀 후 시간 : 192.99452120219553 | left time : 306.31712561830136 | DP까지-time : 113.32260441610582
+>> start : 부발-75 |  arrive : 부발-70 | left time : 306.31712561830136  | left kappa : 1243
+Trace List : ['DP', '부발-71', '부발-75', '부발-70']
+stopby = 0 :, 599, 부발-70
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03406162126976779 | total_distance :94.76979027268533 | this_time :0.040873945523721346 | 20 
+location : 부발-2984
+DP 복귀 후 시간 : 175.72391253887122 | left time : 286.2762516727776 | DP까지-time : 110.55233913390639
+>> start : 부발-70 |  arrive : 부발-2984 | left time : 286.2762516727776  | left kappa : 1083
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984']
+stopby = 0 :, 598, 부발-2984
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.03682608326379646 | total_distance :94.80661635594912 | this_time :0.04419129991655575 | 20 
+location : 부발-69
+DP 복귀 후 시간 : 152.78663755375487 | left time : 266.23206037286104 | DP까지-time : 113.44542281910618
+>> start : 부발-2984 |  arrive : 부발-69 | left time : 266.23206037286104  | left kappa : 903
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69']
+stopby = 0 :, 597, 부발-69
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.059113140280306765 | total_distance :94.86572949622942 | this_time :0.07093576833636812 | 20 
+location : 부발-76
+DP 복귀 후 시간 : 137.53069202013165 | left time : 246.16112460452467 | DP까지-time : 108.63043258439303
+>> start : 부발-69 |  arrive : 부발-76 | left time : 246.16112460452467  | left kappa : 647
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76']
+stopby = 0 :, 596, 부발-76
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.060943426944504844 | total_distance :94.92667292317392 | this_time :0.07313211233340582 | 20 
+location : 부발-127
+DP 복귀 후 시간 : 121.56719604370528 | left time : 226.08799249219126 | DP까지-time : 104.52079644848598
+>> start : 부발-76 |  arrive : 부발-127 | left time : 226.08799249219126  | left kappa : 407
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76', '부발-127']
+stopby = 0 :, 595, 부발-127
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.030943819113564766 | total_distance :94.95761674228748 | this_time :0.03713258293627772 | 20 
+location : 부발-130
+DP 복귀 후 시간 : 103.7743932622071 | left time : 206.050859909255 | DP까지-time : 102.2764666470479
+>> start : 부발-127 |  arrive : 부발-130 | left time : 206.050859909255  | left kappa : 157
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76', '부발-127', '부발-130']
+stopby = 0 :, 594, 부발-130
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0830249797533724 | total_distance :95.04064172204086 | this_time :0.09962997570404689 | 20 
+location : 부발-125
+DP 복귀 후 시간 : 80.36336500343523 | left time : 185.95122993355096 | DP까지-time : 105.58786493011573
+변경 없음:,0.0830249797533724, 95.04064172204086, 0.0016604995950674482,185.95122993355096
+DP 복귀 :,87.9898874417631, 182.9475041840506, 105.58786493011573, 80.36336500343523
+situation_update1-1 >> this_distance : 0.0830249797533724 | total_distance :182.9475041840506 | left time : 80.36336500343523 | this_time :0.09962997570404689 | 20 
+situation_update1-2 >> check the dp time : DP_distance : 87.9898874417631 | DP_time :105.58786493011573 | 
+>> start : 부발-125 |  arrive : DP | left time : 80.36336500343523  | left kappa : -103
+Trace List : ['DP', '부발-71', '부발-75', '부발-70', '부발-2984', '부발-69', '부발-76', '부발-127', '부발-130', '부발-125', 'DP']
+stopby = 0 :, 593, DP
+stopby count : 593
+SUCCESS: cal_xy_DP in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:62
+SUCCESS: cal_xy_client in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:80
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+SUCCESS: first_time in /Users/jdh/Desktop/SW/sw_ver15/temp_v11.py:28
+situation_update0 >> this_distance : 94.61177801816385 | total_distance :94.61177801816385 | this_time :113.53413362179663 | 20 
+location : 부발-23
+DP 복귀 후 시간 : 232.93173275640675 | left time : 346.4658663782034 | DP까지-time : 113.53413362179663
+>> start : DP |  arrive : 부발-23 | left time : 346.4658663782034  | left kappa : 1400
+stopby = 0 :, 592, 부발-23
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
+situation_update0 >> this_distance : 0.0 | total_distance :94.61177801816385 | this_time :0.0 | 20 
+location : 부발-24
+DP 복귀 후 시간 : 212.93173275640675 | left time : 326.4658663782034 | DP까지-time : 113.53413362179663
+>> start : 부발-23 |  arrive : 부발-24 | left time : 326.4658663782034  | left kappa : 1280
+Trace List : ['DP', '부발-23', '부발-24']
+stopby = 0 :, 591, 부발-24
+SUCCESS: cal_xy_distance in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:97
+SUCCESS: cal_azimuth in /Users/jdh/Desktop/SW/sw_ver15/new_v11.py:130
