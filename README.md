@@ -4,7 +4,7 @@
 
 conda create -n 가상환경이름 python=3.7 -y
 
-pip install postgresql  
+conda install postgresql  
 
 pip install -r requirements.txt
 
