@@ -254,7 +254,7 @@ def location_xy(final_df, location_df, DP_df, day, df_element):
 		#final_df_part = final_df_part.replace(' ',np.NaN)
 		final_df_part = final_df_part.dropna(axis=0, inplace =False)
 		
-		map1_df = pd.merge(final_df_part, located_df, left_on=index_col, right_on='code', left_index=True, how='left')		
+		map1_df = pd.merge(final_df_part, located_df, left_on=index_col, right_on='code',  how='left')		
 	
 		map1_df.loc[map1_df[index_col]== 'DP','경도(X좌표)']=x
 		map1_df.loc[map1_df[index_col]== 'DP','위도(Y좌표)']=y
